@@ -8,6 +8,7 @@ namespace YNAEmulator
     {
         static TokenAreaType area = TokenAreaType.STRING;
         static int nestedAreas = 0;
+        static List<Symbol> symbols = new List<Symbol>();
         static public void Start(string code, string[] args)
         {
             char[] tokens = code.ToCharArray();
@@ -15,10 +16,7 @@ namespace YNAEmulator
 
         static void Tokenise(char token)
         {
-            if(area != TokenAreaType.COMMENT)
-            {
-
-            }
+            
         }
     }
 
