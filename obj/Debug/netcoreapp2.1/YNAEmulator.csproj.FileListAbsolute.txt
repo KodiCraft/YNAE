@@ -1,0 +1,11 @@
+D:\source\repos\YNAEmulator\YNAEmulator\bin\Debug\netcoreapp2.1\YNAEmulator.deps.json
+D:\source\repos\YNAEmulator\YNAEmulator\bin\Debug\netcoreapp2.1\YNAEmulator.runtimeconfig.json
+D:\source\repos\YNAEmulator\YNAEmulator\bin\Debug\netcoreapp2.1\YNAEmulator.runtimeconfig.dev.json
+D:\source\repos\YNAEmulator\YNAEmulator\bin\Debug\netcoreapp2.1\YNAEmulator.dll
+D:\source\repos\YNAEmulator\YNAEmulator\bin\Debug\netcoreapp2.1\YNAEmulator.pdb
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.csprojAssemblyReference.cache
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.csproj.CoreCompileInputs.cache
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.AssemblyInfoInputs.cache
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.AssemblyInfo.cs
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.dll
+D:\source\repos\YNAEmulator\YNAEmulator\obj\Debug\netcoreapp2.1\YNAEmulator.pdb

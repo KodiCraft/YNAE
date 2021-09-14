@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "YNAEmulator": {
+      "commandName": "Project",
+      "commandLineArgs": "r test.yna"
+    }
+  }
+}
