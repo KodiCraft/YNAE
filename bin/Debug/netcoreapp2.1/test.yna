@@ -1,4 +1,5 @@
 Some sample text here...
+{! Code by SolarSclar#9842 !}
 {oneline:
     {set:newrep;true;}
     {func:f_hash;
